@@ -14,7 +14,7 @@ it in the database.
 
 ## Usage
 
-You can test the app on the provided link or you can create your own MongoDB atlas and pass its connection string in the app.js file.
+You can test the app here https://fathomless-earth-96596.herokuapp.com/ or you can create your own MongoDB atlas and pass its connection string in the app.js file.
 
 You need to provide a keyword you want for bcrypt to use for encryption of user passwords in the keys.js file.
 
